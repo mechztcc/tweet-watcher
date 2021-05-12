@@ -1,0 +1,38 @@
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 80vh;
+    margin: 0 auto;
+
+    form {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-bottom: 10%;
+
+        h1 {
+            font-size: 60px;
+            font-weight: bold;
+        }
+
+        input {
+            border: 1px solid #E6E6E6;
+            border-radius: 5px;
+            padding: 10px;
+        }
+
+        button {
+            border: none;
+            background-color: #383E56;
+            color: #FFF;
+            width: 100px;
+            margin-top: 5px;
+            border-radius: 5px;
+            font-size: 18px;
+            
+        }
+
+    }
+}

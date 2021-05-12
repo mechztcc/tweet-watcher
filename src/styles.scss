@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+$bg-color: #F9F9F9;
+$bg-primary: #1DA1F2;
+$bg-secondary: #383E56;
+
+
+body {
+    background-color: $bg-color;
+    font-family: 'Rajdhani', sans-serif;
+}
